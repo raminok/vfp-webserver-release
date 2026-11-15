@@ -14,9 +14,9 @@
 
 | فایل | برای |
 |---|---|
-| `VFPWebServer-<version>-Setup.exe` | نصب‌کننده (پیشنهادی) |
-| `VFPWebServer-<version>.zip` | سرور بدون نصب: از حالت فشرده خارج کنید و `VFPWebServer.exe` را اجرا کنید |
-| `VFPWSClient-<version>.zip` | کتابخانه کلاینت برای برنامه‌های فرانت‌اند فاکس‌پرو |
+| `VFPWebServer-0.3.0-Setup.exe` | نصب‌کننده (پیشنهادی) |
+| `VFPWebServer-0.3.0.zip` | سرور بدون نصب: از حالت فشرده خارج کنید و `VFPWebServer.exe` را اجرا کنید |
+| `VFPWSClient-0.3.0.zip` | کتابخانه کلاینت برای برنامه‌های فرانت‌اند فاکس‌پرو |
 
 ویندوز ممکن است برای فایل تازه دانلودشده پیام «Windows protected your PC» نشان دهد: More info و بعد Run anyway را بزنید.
 
