@@ -1,0 +1,13 @@
+*.fxp
+*.FXP
+*.err
+*.ERR
+*.bak
+*.BAK
+*.exe
+*.app
+*.pjx
+*.pjt
+Config/
+Logs/
+Data/

@@ -1,0 +1,85 @@
+VFPWebServer - Freeware License Agreement (Non-Commercial Use)
+
+Copyright (c) 2026 Ramin Orak, Aryana Software. All rights reserved.
+https://raminorak.com
+
+This agreement applies to the VFPWebServer program, its executable file,
+installer and documentation (the "Software"). Parts of the package that
+carry their own license file (the client library in the Clients folder and
+the template and samples in the Apps folder) are covered by that license
+instead. By installing or using the Software you accept this agreement.
+
+1. Grant of license
+
+   You may install and use the Software free of charge, on any number of
+   computers, for non-commercial purposes only.
+
+   Non-commercial purposes are: personal use, study and teaching, research,
+   evaluation and testing, and use by non-profit organizations for their
+   non-profit activities.
+
+2. Commercial use
+
+   Commercial use requires a separate written license from the copyright
+   holder. Commercial use means any use by or for a business, or in
+   connection with a product or service that is sold, rented, licensed or
+   provided for a fee, including use within a company for its own business
+   operations.
+
+   To request a commercial license, write to sales@aryanasoftware.ca.
+
+3. Your applications
+
+   Applications, programs and data that you create and run with the
+   Software remain your property. This agreement gives the copyright holder
+   no rights to them.
+
+4. Redistribution
+
+   You may give copies of the Software to others free of charge, provided
+   that the Software is complete and unmodified and includes this
+   agreement. You may not sell the Software, charge a fee for it, or
+   include it in a product that is sold, without a commercial license.
+
+5. Restrictions
+
+   You may not:
+   - modify, decompile, disassemble or reverse engineer the Software,
+     except where the law expressly permits it;
+   - remove or change copyright notices or this agreement;
+   - rent, lease or sublicense the Software.
+
+6. Third-party components
+
+   The Visual FoxPro 9 runtime files distributed with the Software are the
+   property of Microsoft Corporation and are distributed under Microsoft's
+   terms. This agreement does not apply to them.
+
+7. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY,
+   SECURITY AND NON-INFRINGEMENT. YOU USE THE SOFTWARE AT YOUR OWN RISK.
+   THE ENTIRE RISK AS TO THE QUALITY, PERFORMANCE AND SECURITY OF THE
+   SOFTWARE, AND OF ANY SERVER OR NETWORK SERVICE YOU OPERATE WITH IT, IS
+   WITH YOU.
+
+8. Limitation of liability
+
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY, INCLUDING LOSS OF DATA, LOSS OF PROFITS, BUSINESS
+   INTERRUPTION OR SECURITY INCIDENTS, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Termination
+
+   This license ends automatically if you do not comply with its terms. You
+   must then stop using the Software and delete all copies.
+
+10. Changes
+
+   Later versions of the Software may be released under different terms.
+   The terms of this agreement continue to apply to the version you
+   received with it.
