@@ -17,9 +17,9 @@ Get the latest version from the [Releases](https://github.com/raminok/vfp-webser
 
 | File | For |
 |---|---|
-| `VFPWebServer-<version>-Setup.exe` | Installer (recommended) |
-| `VFPWebServer-<version>.zip` | The server without installation: unzip and run `VFPWebServer.exe` |
-| `VFPWSClient-<version>.zip` | Client library for front-end VFP programs |
+| `VFPWebServer-0.3.0-Setup.exe` | Installer (recommended) |
+| `VFPWebServer-0.3.0-Setup.zip` | The server without installation: unzip and run `VFPWebServer.exe` |
+| `VFPWSClient.zip` | Client library for front-end VFP programs |
 
 Windows may show "Windows protected your PC" for a new download: choose
 *More info* > *Run anyway*.
