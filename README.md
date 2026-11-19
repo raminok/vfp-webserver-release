@@ -24,6 +24,9 @@ Get the latest version from the [Releases](https://github.com/raminok/vfp-webser
 Windows may show "Windows protected your PC" for a new download: choose
 *More info* > *Run anyway*.
 
+<img width="879" height="739" alt="image" src="https://github.com/user-attachments/assets/eb9b45d8-1f29-45e0-87dc-4c95250887c9" />
+
+
 ## In this repository
 
 | Path | Content |
@@ -51,6 +54,8 @@ not published. Questions and bug reports: [Issues](https://github.com/raminok/vf
 - Developer applications loaded as compiled `.fxp` / `.app` files and
   reloaded on every server start
 - Client library for VFP front ends: HTTP, JSON, lists to cursors
+
+<img width="518" height="271" alt="image" src="https://github.com/user-attachments/assets/0614cb77-4ed0-4546-aed1-055c62d86ddb" />
 
 ## Quick start
 
@@ -173,6 +178,9 @@ From now on your program is loaded instead of the sample. To go back to
 the sample, select `Apps\Samples\app.fxp` again.
 
 ### 6. Start and check
+
+<img width="522" height="613" alt="image" src="https://github.com/user-attachments/assets/3e7b4fc8-b867-4fbf-8fc1-9a693bcfece8" />
+
 
 Press *Start Server* (or *Stop*, then *Start* when it is running). The tray
 notification and the first line of the *API Endpoints* tab show the result:
